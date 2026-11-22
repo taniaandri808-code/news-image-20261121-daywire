@@ -16,3 +16,9 @@ How to run:
 Sources: BBC, Al Jazeera, The Guardian, NPR, DW, ABC Australia
 
 License: MIT
+
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/taniaandri808-code/news-image-20261121-daywire/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/taniaandri808-code/news-image-20261121-daywire/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
+Built for the make.fun bounty [news-image-20261121](https://make.fun/bounty/news-image-20261121).
